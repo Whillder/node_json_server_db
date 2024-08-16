@@ -1,0 +1,76 @@
+{
+  "profesores": [
+    {
+      "nombre": "Whillder",
+      "apellido": "Escalante",
+      "materias": [
+        {
+          "nombre": "NodeJs desde cero"
+        },
+        {
+          "nombre": "ReactJs desde cero"
+        },
+        {
+          "nombre": "JavaScripts desde cero"
+        }
+      ],
+      "id": "5661"
+    },
+    {
+      "id": "3c2e",
+      "nombre": "Michael",
+      "apellido": "De Ibarra",
+      "materias": [
+        {
+          "nombre": "NodeJs avanzado"
+        },
+        {
+          "nombre": "ReactJs con Redux"
+        },
+        {
+          "nombre": "SQL Basico"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nomre": "Adhler",
+      "apellido": "Escalante",
+      "promedio": 9.8,
+      "id": "0efd"
+    },
+    {
+      "nombre": "Neutro",
+      "apellido": "Shorty",
+      "promedio": 8.9,
+      "id": "1206"
+    },
+    {
+      "id": "4da2",
+      "nomre": "George",
+      "apellido": "Orwell",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJs desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "0fc4"
+    },
+    {
+      "nombre": "ReactJs desde cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "1c0b"
+    },
+    {
+      "nombre": "Angular desde cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "99f4"
+    }
+  ]
+}
